@@ -1,0 +1,1 @@
+{"name":"Local: Sum_of_two_values","url":"/home/gua00va/CSES/Sorting_and_Searching/Sum_of_two_values.cpp","tests":[{"id":1699680484953,"input":"4 8\n2 7 5 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gua00va/CSES/Sorting_and_Searching/Sum_of_two_values.cpp","group":"local","local":true}
