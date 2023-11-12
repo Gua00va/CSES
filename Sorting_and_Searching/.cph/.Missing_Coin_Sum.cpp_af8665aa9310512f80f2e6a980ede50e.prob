@@ -1,0 +1,1 @@
+{"name":"Local: Missing_Coin_Sum","url":"/home/gua00va/CSES/Sorting_and_Searching/Missing_Coin_Sum.cpp","tests":[{"id":1699767961134,"input":"3\n1 \n2\n4","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gua00va/CSES/Sorting_and_Searching/Missing_Coin_Sum.cpp","group":"local","local":true}
